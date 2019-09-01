@@ -801,3 +801,4 @@ export function createPatchFunction (backend) {
     return vnode.elm
   }
 }
+// appending one testing line
